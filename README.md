@@ -1,3 +1,2 @@
 # poggeres
-Projeto de jogo roguelike (dps faço uma descrição descente)
-victor gay
+Projeto de jogo (dps faço uma descrição descente)
