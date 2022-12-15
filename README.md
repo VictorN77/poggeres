@@ -1,1 +1,1 @@
-repositório novo:https://github.com/RuaQuebec/Poggeres
+repositório novo: https://github.com/RuaQuebec/Poggeres
