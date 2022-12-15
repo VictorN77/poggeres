@@ -1,2 +1,2 @@
 # poggeres
-Projeto de jogo (dps faço uma descrição descente)
+Projeto de jogo (dps faço uma descrição decente)
